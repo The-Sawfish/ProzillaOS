@@ -13,7 +13,7 @@
 
 <!-- #region about -->
 
-## About
+## About 
 
 This repository contains the source code of [os.prozilla.dev][demo] as well as multiple packages. You can find the main package at [`prozilla-os`][prozilla-os].
 
